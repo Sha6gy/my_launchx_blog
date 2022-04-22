@@ -9,8 +9,8 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectivas para este proyecto son 
 
--Aprender python, CCS y JS 
--Consolidar mis conocimientos de fornt end 
+-Aprender python, CCS y JS /n
+-Consolidar mis conocimientos de fornt end /n
 -Utilizar mis conocimientos de frot end en el backend 
 
 🚀
